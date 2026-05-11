@@ -31,8 +31,8 @@ One collection was created per artist, each with 3 documents representing their 
 | BTS | Spring Day, 2.0, Body to Body |
 | Diomedes Diaz | Titulo de Amor, Dejala, Mi Primera Cana |
 | Ivy Queen | Pólvora, Llego la Queen, Y Tú |
-|  Lady Gaga | Poker Face, LoveGame, Paparazzi |
-|  Michael Jackson | Billie Jean, Beat It, Thriller |
+|Lady Gaga | Poker Face, LoveGame, Paparazzi |
+|Michael Jackson | Billie Jean, Beat It, Thriller |
 | Queen | Father to Son, Some Day One Day, Procession |
 
 ---
