@@ -1,7 +1,7 @@
 # ALBUMS_DATABASES
 
 **Course:** NoSQL Databases  
-**Team:** Eilin Palomo, Jorge Zainea, Laura Saenz  
+**Team:** Eilyn Palomo, Jorge Zainea, Laura Saenz  
 **Database:** Album — MongoDB Atlas  
 **Cluster:** cluster0.h63ud7p.mongodb.net  
 
